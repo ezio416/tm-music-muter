@@ -6,6 +6,7 @@ const float  maxVolume     = 0.0f;
 const float  minVolume     = -40.0f;
 bool         muted         = false;
 const float  scale         = UI::GetScale();
+bool         settingVolume = false;
 const string title         = "\\$FFF" + Icons::Music + "\\$G Music Muter";
 bool         waitingForKey = false;
 

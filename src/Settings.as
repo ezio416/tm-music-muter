@@ -1,8 +1,6 @@
 // c 2024-06-24
 // m 2024-06-24
 
-bool settingVolume = false;
-
 [Setting hidden] bool       S_Enabled             = true;
 [Setting hidden] float      S_Volume              = minVolume;
 [Setting hidden] VirtualKey S_Hotkey              = VirtualKey::M;
