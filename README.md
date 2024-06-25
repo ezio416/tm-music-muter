@@ -1,9 +1,11 @@
 ![Signed](https://img.shields.io/badge/Signed-No-FF3333)
 ![Game Trackmania](https://img.shields.io/badge/Game-Trackmania-blue)
 
-# PluginTemplate
+# Music Muter
 
-A template for writing plugins more easily.
+Mutes/unmutes music when a map has custom music. That's it.
+
+Also adds a hotkey so you can do it manually.
 
 <!-- ![Signed](https://img.shields.io/badge/Signed-Yes-00AA00) -->
 <!-- ![Signed](https://img.shields.io/badge/Signed-School_Mode-CC1199) -->
